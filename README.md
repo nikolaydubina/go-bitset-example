@@ -1,13 +1,13 @@
 ### How to make bitset in Go?
 
+* **zero overhead**
+* short syntax for creating sets from values
+* set membership, equality, subset
 * compile time
    * block of accidental arithmetics
    * block of implicit cast of untyped constants
    * block of all operators except `==` and `!=`
    * block of creating new values
-* short syntax for creating sets from values
-* set membership, equality, subset
-* **zero overhead**
 * extending on the idaa of [Go enum](https://github.com/nikolaydubina/go-enum-example)
 
 ```go
