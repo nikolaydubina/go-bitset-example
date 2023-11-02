@@ -8,6 +8,7 @@
 * short syntax for creating sets from values
 * set membership, equality, subset
 * **zero overhead**
+* extending on the idaa of [Go enum](https://github.com/nikolaydubina/go-enum-example)
 
 ```go
 package permission
@@ -59,3 +60,4 @@ ok  	github.com/nikolaydubina/go-bitset-example/permission	3.552s
 * https://en.cppreference.com/w/cpp/utility/bitset
 * https://docs.oracle.com/javase/8/docs/api/java/util/BitSet.html
 * https://godbolt.org
+* https://github.com/nikolaydubina/go-enum-example
