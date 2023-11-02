@@ -4,7 +4,7 @@
    * block of accidental arithmetics
    * block of implicit cast of untyped constants
    * block of all operators except `==` and `!=`
-   * creating new values
+   * block of creating new values
 * short syntax for creating sets from values
 * set membership, equality, subset
 * **zero overhead**
