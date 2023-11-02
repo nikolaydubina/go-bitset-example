@@ -1,6 +1,6 @@
 ### How to make bitset in Go?
 
-* **zero overhead**
+* *zero overhead*
 * short syntax for creating sets from values
 * set membership, equality, subset
 * compile time
