@@ -8,7 +8,7 @@
    * block of implicit cast of untyped constants
    * block of all operators except `==` and `!=`
    * block of creating new values
-* extending on the idaa of [Go enum](https://github.com/nikolaydubina/go-enum-example)
+* extending on the idea of [Go Enum](https://github.com/nikolaydubina/go-enum-example)
 
 ```go
 package permission
